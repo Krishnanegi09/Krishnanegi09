@@ -5,9 +5,9 @@
   <a href="https://github.com/Krishnanegi09" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Krishna%20Negi-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/krishna-singh-negi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Negi-blue?style=for-the-badge&logo=linkedin">
-  </a>
+ <a href="https://www.linkedin.com/in/krishna-singh-negi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
 
 ---
