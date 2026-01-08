@@ -1,27 +1,98 @@
-# 💫 About Me:
-I'm a cse undergrad<br>I’m looking to collaborate on cybersecurity, front end development<br>I’m currently learning Cyber Security & Ethical Hacking, Full-Stack Web Development
+<h1 align="center">Hi 👋, I'm Krishna Negi</h1>
+<h3 align="center">🛡️ Cybersecurity Enthusiast | Python Developer | B.Tech CSE @ Graphic Era Hill University</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnanegiii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-singh-negi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnanegi0906@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krishnanegi09&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=krishnanegi09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanegi09&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krishnanegi09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krishnanegi09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/Krishnanegi09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Krishna%20Negi-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/krishna-singh-negi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Negi-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krishnanegi09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+- 🎓 **B.Tech Computer Science (Cybersecurity)** student  
+- 🔐 Interested in **Ethical Hacking, Vulnerability Assessment & Network Security**  
+- 🐍 Python developer focused on **security automation tools**  
+- 🧠 Strong foundation in **DBMS, OS & DSA concepts**  
+- 💻 macOS user | Curious learner & problem solver  
+
+---
+
+### 🧩 Featured Projects
+
+#### 🔹 [Smart Water Management System](https://github.com/Krishnanegi09/Water-Management-System.git)
+- Algorithm-based simulation using **Design & Analysis of Algorithms**
+- Implemented:
+  - 🌐 Graph-based network  
+  - 🌳 Prim’s Algorithm (MST)  
+  - 🚰 Optimized water flow & pressure handling  
+- Focused on **efficient resource distribution**
+
+#### 🔹 [LinkUp – Database Management System Project](https://github.com/Krishnanegi09/Link-Up.git)
+- **DBMS academic project**
+- Designed structured relational database
+- Implemented:
+  - 🗄️ Normalization & constraints  
+  - 📊 Efficient SQL queries & joins  
+  - 🔐 Secure data handling  
+- Built using **MySQL with backend integration**
+
+#### 🔹 [ZenCube – Operating Systems Project](https://github.com/Krishnanegi09/ZenCube.git)
+- **Operating Systems–based project**
+- Concepts covered:
+  - ⚙️ Process scheduling  
+  - 🧵 Multithreading & synchronization  
+  - 🧠 Basics of memory management  
+- Strengthened understanding of **core OS principles**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** C, C++, Python, Java, HTML, CSS 
+**Cybersecurity:** Port Scanning, Vulnerability Analysis, Web Security Basics  
+**Core CS:** DBMS, OS, DSA  
+**Tools & Frameworks:** Git, Docker, Tkinter, PyQt  
+**Databases:** MySQL  
+**OS:** macOS, Windows, Kali Linux
+
+---
+
+### 📚 Certifications & Learning
+
+- 📜 NPTEL – Computer Networks & Internet Protocols  
+- 📖 Self-learning Cybersecurity & Ethical Hacking  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishnanegi09&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnanegi09&theme=radical" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:krishnanegi0906@gmail.com">
+    <img src="https://img.shields.io/badge/Email-krishnanegi0906%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://wa.me/919411593708">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp">
+  </a>
+  <a href="https://www.instagram.com/krishnanegiii_">
+    <img src="https://img.shields.io/badge/Instagram-krishnanegiii_-purple?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="https://t.me/krishnanegi09">
+    <img src="https://img.shields.io/badge/Telegram-krishnanegi09-blue?style=for-the-badge&logo=telegram">
+  </a>
+</p>
+
+⭐️ *From [Krishna Negi](https://github.com/Krishnanegi09)*
